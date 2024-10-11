@@ -1,15 +1,15 @@
-{"eQn7H9wJ":"1","G4L0YIB2":"物攻","fRoJpV53":"unit_type_patk.png"}
-{"eQn7H9wJ":"2","G4L0YIB2":"魔攻","fRoJpV53":"unit_type_matk.png"}
-{"eQn7H9wJ":"3","G4L0YIB2":"物防","fRoJpV53":"unit_type_pdef.png"}
-{"eQn7H9wJ":"4","G4L0YIB2":"魔防","fRoJpV53":"unit_type_mdef.png"}
-{"eQn7H9wJ":"5","G4L0YIB2":"回復","fRoJpV53":"unit_type_recovery.png"}
-{"eQn7H9wJ":"6","G4L0YIB2":"支援","fRoJpV53":"unit_type_support.png"}
-{"eQn7H9wJ":"7","G4L0YIB2":"妨害","fRoJpV53":"unit_type_obstruct.png"}
-{"eQn7H9wJ":"8","G4L0YIB2":"万能","fRoJpV53":"unit_type_all.png"}
-{"eQn7H9wJ":"9","G4L0YIB2":"経験値","fRoJpV53":"unit_type_exp.png"}
-{"eQn7H9wJ":"10","G4L0YIB2":"売却","fRoJpV53":"unit_type_sale.png"}
-{"eQn7H9wJ":"11","G4L0YIB2":"合成","fRoJpV53":"unit_type_synthesis.png"}
-{"eQn7H9wJ":"12","G4L0YIB2":"限界突破","fRoJpV53":"unit_type_pot.png"}
-{"eQn7H9wJ":"13","G4L0YIB2":"上限解放","fRoJpV53":"unit_type_limitup.png"}
-{"eQn7H9wJ":"14","G4L0YIB2":"LV上限突破","fRoJpV53":"unit_type_limitover.png"}
-{"eQn7H9wJ":"15","G4L0YIB2":"LV上限突破解除","fRoJpV53":"unit_type_limitover_release.png"}
+{"eQn7H9wJ":"1","G4L0YIB2":"ATK","fRoJpV53":"unit_type_patk.png"}
+{"eQn7H9wJ":"2","G4L0YIB2":"MAG","fRoJpV53":"unit_type_matk.png"}
+{"eQn7H9wJ":"3","G4L0YIB2":"DEF","fRoJpV53":"unit_type_pdef.png"}
+{"eQn7H9wJ":"4","G4L0YIB2":"SPR","fRoJpV53":"unit_type_mdef.png"}
+{"eQn7H9wJ":"5","G4L0YIB2":"REC","fRoJpV53":"unit_type_recovery.png"}
+{"eQn7H9wJ":"6","G4L0YIB2":"SUP","fRoJpV53":"unit_type_support.png"}
+{"eQn7H9wJ":"7","G4L0YIB2":"BRK","fRoJpV53":"unit_type_obstruct.png"}
+{"eQn7H9wJ":"8","G4L0YIB2":"ALL","fRoJpV53":"unit_type_all.png"}
+{"eQn7H9wJ":"9","G4L0YIB2":"EXP","fRoJpV53":"unit_type_exp.png"}
+{"eQn7H9wJ":"10","G4L0YIB2":"SALE","fRoJpV53":"unit_type_sale.png"}
+{"eQn7H9wJ":"11","G4L0YIB2":"SYN","fRoJpV53":"unit_type_synthesis.png"}
+{"eQn7H9wJ":"12","G4L0YIB2":"POT","fRoJpV53":"unit_type_pot.png"}
+{"eQn7H9wJ":"13","G4L0YIB2":"LIMIT","fRoJpV53":"unit_type_limitup.png"}
+{"eQn7H9wJ":"14","G4L0YIB2":"LV BRK","fRoJpV53":"unit_type_limitover.png"}
+{"eQn7H9wJ":"15","G4L0YIB2":"LV ERS","fRoJpV53":"unit_type_limitover_release.png"}
