@@ -1,0 +1,2 @@
+# FFBE JP Decrypted
+ 
